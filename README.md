@@ -165,7 +165,7 @@ Authentication & user accounts
 
 👤 Author
 
-Anshul Raghu
+Anshul Raghuvanshi
 Master’s Student — AI Systems
 Project: CentricAI
 
